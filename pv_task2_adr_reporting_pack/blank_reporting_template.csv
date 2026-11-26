@@ -1,0 +1,8 @@
+Field,RequiredForValidCase,StudentEntry,SourceEvidence
+Identifiable patient,Yes,,
+Identifiable reporter,Yes,,
+Suspect product,Yes,,
+Adverse event,Yes,,
+Chronology,No,,
+Seriousness,No,,
+Outcome,No,,
